@@ -5,7 +5,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="App">
-				<MapContainer />
+				<MapContainer apiKey="AIzaSyA6-ZG12kz6OX5EPHDCda9AaKefdHJAVLo" />
 			</div>
 		);
 	}
